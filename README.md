@@ -1,2 +1,2 @@
-# JAVA-Practice-Projects
-JAVA-Practice-Projects
+# JDBC Learning
+
