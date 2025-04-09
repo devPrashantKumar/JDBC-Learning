@@ -11,7 +11,6 @@ public class PatientService {
 	private Connection conn;
 
 	public PatientService(Connection conn) {
-		super();
 		this.conn = conn;
 	}
 

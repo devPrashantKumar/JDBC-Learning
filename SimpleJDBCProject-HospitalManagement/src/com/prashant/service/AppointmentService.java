@@ -14,7 +14,6 @@ public class AppointmentService {
 	private Connection conn;
 
 	public AppointmentService(Connection conn) {
-		super();
 		this.conn = conn;
 	}
 	

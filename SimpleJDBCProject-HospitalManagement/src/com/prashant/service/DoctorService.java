@@ -12,7 +12,6 @@ public class DoctorService {
 	
 	
 	public DoctorService(Connection conn) {
-		super();
 		this.conn = conn;
 	}
 
