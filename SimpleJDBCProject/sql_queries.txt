@@ -11,4 +11,7 @@ create table student (
     marks double not null
 );
 
+insert into student(name,age,marks)
+values ("Prashant",10,100),("Vikas",9,95);
+
 drop table student;
