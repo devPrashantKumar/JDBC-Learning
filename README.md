@@ -3,4 +3,7 @@
 
 
 ## Download MYSQL connector jar
-- url : https://dev.mysql.com/downloads/connector/j/
+- URL : https://dev.mysql.com/downloads/connector/j/
+
+## JDBC Interview Questions:
+- URL: https://youtu.be/uYc6RKwLb0o?si=fPtWyB4pRSVx2bae
