@@ -1,11 +1,12 @@
 # Compiled class file
 *.class
-
+*.iml
 .metadata/
 .classpath
 .project
 .settings/
 bin/
+.idea/
 
 # Log file
 *.log
